@@ -1,43 +1,43 @@
-# React + Vite + Cypress
+# Todo List - Formation Dyma
 
-Todo list built with React, Vite and Cypress.
+Projet React de la formation Dyma, migré vers Vite et testé avec Cypress.
 
-## Available Scripts
+## Scripts disponibles
 
-In the project directory, you can run:
+Dans le dossier du projet, vous pouvez lancer :
 
 ### `npm start`
 
-Runs the app in development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Démarre l'application en mode développement avec Vite.\
+Ouvrez [http://localhost:3000](http://localhost:3000) pour la voir dans le navigateur.
 
-The page will reload when you make changes.
+La page se recharge automatiquement lors des modifications.
 
 ### `npm run dev`
 
-Runs the same Vite development server as `npm start`.
+Démarre le même serveur de développement Vite que `npm start`.
 
 ### `npm test`
 
-Launches Vitest in watch mode.
+Lance Vitest en mode watch.
 
 ### `npm run build`
 
-Builds the app for production to the `dist` folder.
+Génère la version de production dans le dossier `dist`.
 
 ### `npm run preview`
 
-Serves the production build locally on [http://localhost:3000](http://localhost:3000).
+Sert localement le build de production sur [http://localhost:3000](http://localhost:3000).
 
 ### `npm run e2e`
 
-Starts the Vite development server, waits for [http://localhost:3000](http://localhost:3000), then opens Cypress.
+Démarre le serveur Vite, attend que [http://localhost:3000](http://localhost:3000) réponde, puis ouvre Cypress.
 
 ### `npm run e2e:run`
 
-Starts the Vite development server, waits for [http://localhost:3000](http://localhost:3000), then runs Cypress headlessly.
+Démarre le serveur Vite, attend que [http://localhost:3000](http://localhost:3000) réponde, puis lance Cypress en mode headless.
 
-## Learn More
+## Documentation
 
 - [Vite documentation](https://vite.dev/)
 - [React documentation](https://react.dev/)
